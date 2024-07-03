@@ -3,6 +3,10 @@
 This is a CodePen clone built using React, MaterialUI, and CodeMirror editor.
 It lacks any Storage facilities or Authentication for users.
 
+## ▶️ Demo
+
+![Demo](GifQ.gif)
+
 ## 🌟 Features
 
 - Live code editing with syntax highlighting
